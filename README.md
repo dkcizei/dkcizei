@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dkcizei
+- 👋 Hi, I’m @Gal Ben Zaken
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
